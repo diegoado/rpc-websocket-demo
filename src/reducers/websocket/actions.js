@@ -1,0 +1,2 @@
+export const OPEN_WEBSOCKET = 'OPEN_WEBSOCKET';
+export const CLOSE_WEBSOCKET = 'CLOSE_WEBSOCKET';

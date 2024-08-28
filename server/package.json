@@ -2,7 +2,7 @@
     "name": "server",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "index.cjs",
     "type": "module",
     "scripts": {
         "dev": "nodemon index.js"
@@ -11,7 +11,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "rpc-websockets": "^7.11.2"
+        "rpc-websockets": "^7.10.0"
     },
     "devDependencies": {
         "nodemon": "^3.1.4"
